@@ -4,15 +4,12 @@
 # AUTOR             : Matheus Martins 3mhenrique@gmail.com
 # HOMEPAGE          : https://github.com/mateuscomh 
 # DATA CRIAÇÃO      : 
-# PROGRAMA          : Shell-Base
-# VERSÃO            : 1.0.0
+# VERSÃO            : 0.0.0
 # LICENÇA           : GPL3
 # PEQUENA-DESCRIÇÃO : Template padrão/base para aplicações pessoais.
-#
 # CHANGELOG         : 01/04/2021 12:00 - Criado template 
 #
 #-----------END-HEAD-----------------------------------------------------------<
-
 
 #-----------VAR---------------------------------------------------------------->
 template="template"
@@ -23,7 +20,6 @@ vermelho="\033[31;1m"
 branco="\033[37;1m"
 #----------END-VAR-------------------------------------------------------------<
 
-
 #----------FUNC---------------------------------------------------------------->
 
 dicas(){
@@ -31,7 +27,6 @@ dicas(){
 }
 
 #----------END-FUNC------------------------------------------------------------<
-
 
 #----------TESTS--------------------------------------------------------------->
 #

@@ -2,11 +2,10 @@
 
 #-----------HEAD---------->
 # AUTOR             : Matheus Martins 3mhenrique@gmail.com
-# HOMEPAGE          : https://github.com/mateuscomh 
-# DATA CRIAÇÃO      : 
-# VERSÃO            : 0.0.0
-# LICENÇA           : GPL3
-# PEQUENA-DESCRIÇÃO : Template padrão/base para aplicações pessoais.
+#                     https://github.com/mateuscomh  
+# VERSION           : 0.0.0
+# LICENSE           : GPL3
+# SHORT-DESC        : Template padrão/base para aplicações pessoais.
 # CHANGELOG         : 01/04/2021 12:00 - Criado template 
 #
 #-----------END-HEAD---------->
